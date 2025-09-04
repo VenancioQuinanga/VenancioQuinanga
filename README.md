@@ -53,6 +53,7 @@ Clean code, collaborative development, and continuous learning are at the heart 
 
 ### ☁️ Cloud & DevOps  
 ![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-4285F4?logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 ![DevOps](https://img.shields.io/badge/-DevOps-FF9900?logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
@@ -66,6 +67,7 @@ Clean code, collaborative development, and continuous learning are at the heart 
 
 ### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
