@@ -18,7 +18,7 @@ I'm a **Full Stack Developer** with over **4 years of experience**, passionate a
 
 ---
 
-### 🎨 Front-End Frameworks  
+### 🎨 Front-End  
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 ![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?logo=vue.js&logoColor=white)
@@ -36,7 +36,7 @@ I'm a **Full Stack Developer** with over **4 years of experience**, passionate a
 
 ---
 
-### 🔧 Back-End Frameworks  
+### 🔧 Back-End
 ![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
