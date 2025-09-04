@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Venâncio Quinanga
+# 👋 Hi, welcome here! I'm Venâncio Quinanga
 
 I'm a **Full Stack Developer** with over **4 years of experience**, passionate about building scalable, user-friendly digital solutions. I specialize in both front-end and back-end development, working with modern frameworks and clean code principles.
 
@@ -12,18 +12,36 @@ I'm a **Full Stack Developer** with over **4 years of experience**, passionate a
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
-### ⚙️ Front-End Frameworks  
+---
+
+### 🎨 Front-End Frameworks  
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 ![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?logo=vue.js&logoColor=white)
 ![NextJS](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+---
+
+### 📱 Mobile Development  
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
+
+---
 
 ### 🔧 Back-End Frameworks  
 ![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+
+---
 
 ### ☁️ Cloud & DevOps  
 ![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-4285F4?logo=google-cloud&logoColor=white)
@@ -31,13 +49,19 @@ I'm a **Full Stack Developer** with over **4 years of experience**, passionate a
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 
+---
+
 ### 🤖 Machine Learning  
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white)
+
+---
 
 ### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+---
 
 ### 🧰 Tools  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
