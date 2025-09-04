@@ -38,10 +38,8 @@ I'm a **Web Developer** with over **4 years of experience**, passionate about bu
 ---
 
 ## 📫 Contact Me  
-📧 **Email**: your.email@example.com  
-💼 **LinkedIn**: ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)  
-🌐 **Portfolio**: ![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=github&logoColor=white)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ven%C3%A2ncio-quinanga-37a827319/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:venancioquinanga@gmail.com)
 ---
 
 > “Clean code is like poetry: elegant, purposeful, and timeless.”
