@@ -1,4 +1,8 @@
-# 👋 Hi, welcome here! I'm Venâncio Quinanga
+# Venâncio Quinanga
+
+---
+
+# About Me
 
 I'm a **Full Stack Developer** with over **4 years of experience**, passionate about building scalable, user-friendly digital solutions. I specialize in both front-end and back-end development, working with modern frameworks and clean code principles.
 
@@ -40,6 +44,8 @@ I'm a **Full Stack Developer** with over **4 years of experience**, passionate a
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![API](https://img.shields.io/badge/-API-FFB300?logo=api&logoColor=black)
+![REST](https://img.shields.io/badge/-REST-0066CC?logo=protocols&logoColor=blue)
 
 ---
 
@@ -67,6 +73,8 @@ I'm a **Full Stack Developer** with over **4 years of experience**, passionate a
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=red)
 
 ---
 
