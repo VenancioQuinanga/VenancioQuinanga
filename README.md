@@ -4,7 +4,9 @@
 
 # About Me
 
-I'm a **Full Stack Developer** with over **4 years of experience**, passionate about building scalable, user-friendly digital solutions. I specialize in both front-end and back-end development, working with modern frameworks and clean code principles.
+I'm a **Full Stack Developer** with over 4 years of hands-on experience in the tech industry, including 3 years working in Angola. I specialize in crafting scalable, intuitive digital solutions across web, mobile, and desktop platforms. With experiense on modern tools and frameworks like **React**, **Node.js**, and **.ReactNative**.
+Whether building APIs, designing user interfaces, or deploying cloud-native architectures, I approach every challenge with creativity, precision, and a problem-solving mindset.
+I'm passionate about **open source**, and I actively contribute to projects that push the boundaries of technological innovation. Clean code, collaborative development, and continuous learning are at the heart of everything I do.
 
 ---
 
