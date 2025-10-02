@@ -1,7 +1,5 @@
 # Venâncio Quinanga
 
----
-
 # About Me
 
 I'm a **Full Stack Developer** with around 4 years of hands-on experience in the tech industry Angolan. I specialize in crafting scalable, intuitive digital solutions across web, mobile, and desktop platforms. With experiense on modern tools and frameworks like **React**, **Node.js**, and **ReactNative**.
