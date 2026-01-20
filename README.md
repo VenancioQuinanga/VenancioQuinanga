@@ -16,8 +16,6 @@ Clean code, collaborative development, and continuous learning are at the heart 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 
 ---
 
