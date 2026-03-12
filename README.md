@@ -15,6 +15,7 @@ Whether building APIs, designing user interfaces, or deploying cloud-native arch
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
 
 
+
 ### Front-End  
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
@@ -25,10 +26,12 @@ Whether building APIs, designing user interfaces, or deploying cloud-native arch
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 
+
 ### Mobile Development  
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
+
 
 
 ### Back-End
@@ -43,6 +46,7 @@ Whether building APIs, designing user interfaces, or deploying cloud-native arch
 ![REST](https://img.shields.io/badge/-REST-0066CC?logo=protocols&logoColor=blue)
 
 
+
 ### Cloud & DevOps  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
@@ -51,8 +55,9 @@ Whether building APIs, designing user interfaces, or deploying cloud-native arch
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 
 
+
 ### Machine Learning  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white)
 
 
 ### Databases  
@@ -62,12 +67,14 @@ Whether building APIs, designing user interfaces, or deploying cloud-native arch
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 
+
 ### Tools  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=red)
+
 
 
 ## Contact Me  
